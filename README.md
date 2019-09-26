@@ -6,7 +6,6 @@
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
-- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -36,15 +35,11 @@
 - [frontEnd](https://github.com/twang281314/frontEnd) - 前端相关  
 - [constitution](https://github.com/cn/constitution) - 中华人民共和国宪法  
 
-## Dockerfile
-- [mtdhb](https://github.com/mtdhb/mtdhb) - 每天大红包 · 一键领取饿了么、美团手气最佳红包  
-
 ## Go
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.  
 
 ## HTML
 - [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack) - 全面的Webpack教程《深入浅出Webpack》电子书  
-- [2life](https://github.com/oh-bear/2life) - 💌 双生：遇见另一半的美好：）（React Native）  
 - [js-leakage-patterns](https://github.com/zhansingsong/js-leakage-patterns) - :dart:这是关于JavaScript内存泄露和CSS优化相关序列文章，相信你读完会有所收获的:airplane:  
 - [node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.  
 
