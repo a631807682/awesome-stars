@@ -4,7 +4,7 @@
 
 ## 🏠 Contents
 - [C](#c)
-- [C++](#c++)
+- [C++](#c-1)
 - [CSS](#css)
 - [Go](#go)
 - [HTML](#html)
@@ -52,6 +52,8 @@
 - [ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm  
 
 ## JavaScript
+- [vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image) - Vue progressive image loading plugin  
+- [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue  
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!  
 - [any-rule](https://github.com/any86/any-rule) - :whale:  常用正则大全, 支持vscode扩展插件  
 - [superagent](https://github.com/visionmedia/superagent) - Ajax for Node.js and browsers (JS HTTP client)  
